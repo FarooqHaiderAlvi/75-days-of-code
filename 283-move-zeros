@@ -23,6 +23,6 @@ public:
 
 int main() {
   	Solution obj;
-  	vector<int> vec = { 2,3,4,5 };
+  	vector<int> vec = { 2,3,0,4,0,5 };
   	obj.moveZeroes(vec);
 }
